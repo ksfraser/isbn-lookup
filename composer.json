@@ -1,5 +1,5 @@
 {
-  "name": "ksfraser/isbn",
+  "name": "ksfraser/isbn-lookup",
   "description": "A set of classes for working within isbn.com.",
   "type": "library",
   "authors": [
